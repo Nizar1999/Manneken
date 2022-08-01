@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nizar1999/Manneken/blob/main/screenshots/Banner.png" width = 55%; height=55% />
+  <img src="https://github.com/Nizar1999/Manneken/blob/main/screenshots/Banner.jpg" width = 55%; height=55% />
 </p>
 
 ![Engine](https://img.shields.io/badge/-MADE%20WITH%20UE4-black?style=for-the-badge&logo=unreal-engine&logoColor=red)
